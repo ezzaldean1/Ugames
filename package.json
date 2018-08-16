@@ -1,0 +1,14 @@
+{
+  "name": "unga.js",
+  "version": "2.1.0",
+  "description": "-- AWESOMENESS --",
+  "main": "unga.js",
+  "scripts": {
+    "start": "node unga.js"
+  },
+  "dependencies": {
+  },
+  "engines": {
+    "node": "8.4.0"
+  }
+}
